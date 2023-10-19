@@ -1,0 +1,26 @@
+{
+    "name": "@norman-huth/tailwind-extend-theme",
+    "version": "0.0.1",
+    "author": "Norman Huth",
+    "description": "Simple private Plugin wich extends Tailwind CSS classes.",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Muetze42/tailwind-extend-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/Muetze42/tailwind-extend-theme/issues"
+    },
+    "homepage": "https://github.com/Muetze42/tailwind-extend-theme#readme",
+    "devDependencies": {
+        "tailwindcss": ">=3.3.3"
+    }
+}
